@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="kr.green.SpringWebProject">
+	<logger name="kr.green.springwebproject">
 		<level value="info" />
 	</logger>
 	
